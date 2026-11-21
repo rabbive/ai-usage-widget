@@ -7,15 +7,15 @@
     "window": "5-hour"
   },
   "muse": {
-    "extra_tokens": "31B",
+    "extra_tokens": "30B",
     "extra_used_pct": 0,
     "note": "Free weekly limit. Additional 31B tokens never expire.",
-    "pct_left": 13,
-    "pct_used": 87,
+    "pct_left": 100,
+    "pct_used": 0,
     "plan": "Free",
-    "resets_at": "2026-11-21T08:26:00+05:30",
-    "resets_label": "21 Nov, 8:26 AM IST"
+    "resets_at": "2026-11-28T08:37:00+05:30",
+    "resets_label": "28 Nov, 8:37 AM IST"
   },
-  "updated_at": "2026-11-20T09:42:04.431847+05:30",
-  "updated_at_ist": "20 Nov 2026, 9:42 AM IST"
+  "updated_at": "2026-11-21T09:42:03.989607+05:30",
+  "updated_at_ist": "21 Nov 2026, 9:42 AM IST"
 }
