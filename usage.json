@@ -10,12 +10,12 @@
     "extra_tokens": "30B",
     "extra_used_pct": 0,
     "note": "Free weekly limit. Additional 31B tokens never expire.",
-    "pct_left": 27,
-    "pct_used": 73,
+    "pct_left": 20,
+    "pct_used": 80,
     "plan": "Free",
     "resets_at": "2026-11-28T08:37:00+05:30",
     "resets_label": "28 Nov, 8:37 AM IST"
   },
-  "updated_at": "2026-11-25T09:42:04.299848+05:30",
-  "updated_at_ist": "25 Nov 2026, 9:42 AM IST"
+  "updated_at": "2026-11-26T09:42:06.274628+05:30",
+  "updated_at_ist": "26 Nov 2026, 9:42 AM IST"
 }
